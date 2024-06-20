@@ -1,0 +1,6 @@
+﻿  Helpers.cpp
+C:\Users\Рустам\source\repos\Restik-CPP\Helpers\Helpers.cpp(46,33): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Рустам\source\repos\Restik-CPP\Helpers\Helpers.cpp(68,33): warning C4101: e: неиспользованная локальная переменная
+  pcp.cpp
+  Создание кода...
+  Helpers.vcxproj -> C:\Users\Рустам\source\repos\Restik-CPP\x64\Debug\Helpers.lib
